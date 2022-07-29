@@ -1,4 +1,4 @@
- ##  Name- vikas kumar taliyan
+ ##  Name- Anurag Pathak
   ![tech](https://img.shields.io/badge/learn-learncodeonline-lightgrey)
   ![TECH](https://img.shields.io/badge/tech-CSS-red)
   ![Project](https://img.shields.io/badge/project-product%20homepage-brightgreen)
