@@ -166,3 +166,56 @@ h1 {
   margin-left: 45rem;
   margin-top: 0.6rem;
 }
+
+/* responsive */
+@media only screen and (max-width: 700px) {
+  body{
+    margin: auto;
+  }
+  .action-btns {
+    position: absolute;
+    top: 60rem;
+  }
+  img[alt="actions"]{
+    display: none;
+  }
+  .dots {
+    position: relative;
+    top: 54rem;
+    right: 23rem;
+    width: 72px;
+    border-radius: 11px;
+  }
+ .nav-items{
+  display: block;
+
+ }
+ .sub-headline {
+  left: 0.1rem;
+  font-size: 16px;
+  
+}
+.headphone-div {
+  position: absolute;
+  top: 8rem;
+  left: auto;
+}
+.left-section{
+  position: absolute;
+  top: 40rem;
+
+}
+.action-btn {
+  position: relative;
+  right: 360px;
+  top: 32rem;
+ }
+ .action-btns {
+  position: relative;
+  display: inline;
+  display: flex;
+  top: -40rem;
+  left: 24rem;
+  /* padding: 0px; */
+}
+}
