@@ -213,7 +213,6 @@ h1 {
  .action-btns {
   position: relative;
   display: inline;
-  display: flex;
   top: -40rem;
   left: 24rem;
   /* padding: 0px; */
